@@ -14,6 +14,13 @@
   background-size: cover;
 }
 
+h1 {
+
+  font-family: "Dancing Script", cursive;
+  text-transform: uppercase;
+
+}
+
 .hamburger-menu {
   width: 55px;
   height: 55px;
